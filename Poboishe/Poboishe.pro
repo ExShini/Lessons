@@ -6,12 +6,14 @@ CONFIG -= qt
 SOURCES += main.cpp \
     solder.cpp \
     king.cpp \
-    armyfactoryrome.cpp
+    armyfactoryrome.cpp \
+    poboishe.cpp
 
 HEADERS += \
     solder.h \
     ArmyFactory.h \
     king.h \
     armyfactoryrome.h \
-    enums.h
+    enums.h \
+    poboishe.h
 

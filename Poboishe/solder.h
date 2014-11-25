@@ -7,7 +7,6 @@ public:
     Solder();
     Solder(int ID, int type, int helth, int power): m_IDking(ID), m_type(type), m_helht(helth), m_power(power){}
 
-private:
     int m_IDking;
     int m_type;
     int m_helht;
